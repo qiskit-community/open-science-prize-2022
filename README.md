@@ -6,7 +6,7 @@ This year, the challenge will feature one problem from the field of quantum grou
 
 Preparing quantum states lies at the heart of quantum computing, and is essential to promising applications of near-term quantum processors. This year's problem asks participants to prepare the ground state of a Heisenberg spin-1/2 Hamiltonian on a kagome lattice using IBM Quantum's 16-qubit ibmq_guadalupe system. The ground states of such systems are highly entangled and linked to exotic quantum behavior at the forefront of quantum research. The goal is to compute the ground state energy with the highest fidelity using VQE. Note that this is the largest qubit system offered in an Open Science Prize to date. We look forward to another year of incredible solutions.
 
-**Read more at our [blog] and register [here]**.
+**Read more on the [blog](https://research.ibm.com/blog/ibm-quantum-open-science-prize-2022) post and register [here](https://ibmquantumawards.bemyapp.com/#/event)**.
 
 The competition will conclude on April 15, 2023. 
 
