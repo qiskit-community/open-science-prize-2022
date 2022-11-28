@@ -1,0 +1,4 @@
+qiskit==0.39
+qiskit-nature>=0.4.0
+qiskit-ibm-runtime==0.7.0
+matplotlib>=3.5.2
