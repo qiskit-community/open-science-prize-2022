@@ -10,7 +10,7 @@ Preparing quantum states lies at the heart of quantum computing, and is essentia
 
 The competition will conclude on April 15, 2023. 
 
-Once you register, we encourage you to join us on the Qiskit Slack Channel [#open-science-prize-22](https://qiskit.slack.com/archives/C04BF2X563C) to chat and ask questions. Join the Qiskit Slack workspace [here](https://ibm.co/joinqiskitslack), if you haven't already.
+*Once you register, we encourage you to join us on the Qiskit Slack Channel [#open-science-prize-22](https://qiskit.slack.com/archives/C04BF2X563C) to chat and ask questions. Join the Qiskit Slack workspace [here](https://ibm.co/joinqiskitslack), if you haven't already.*
 
 Participants may submit their answer as outlined below:
 
